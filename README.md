@@ -1,1 +1,1 @@
-# Summer-School-2023 Just an example repo 
+# Summer-School-2023 
